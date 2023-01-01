@@ -1,0 +1,15 @@
+/Users/renanfavero/Documents/FaveroBank/bin/Debug/net7.0/FaveroBank
+/Users/renanfavero/Documents/FaveroBank/bin/Debug/net7.0/FaveroBank.deps.json
+/Users/renanfavero/Documents/FaveroBank/bin/Debug/net7.0/FaveroBank.runtimeconfig.json
+/Users/renanfavero/Documents/FaveroBank/bin/Debug/net7.0/FaveroBank.dll
+/Users/renanfavero/Documents/FaveroBank/bin/Debug/net7.0/FaveroBank.pdb
+/Users/renanfavero/Documents/FaveroBank/obj/Debug/net7.0/FaveroBank.csproj.AssemblyReference.cache
+/Users/renanfavero/Documents/FaveroBank/obj/Debug/net7.0/FaveroBank.GeneratedMSBuildEditorConfig.editorconfig
+/Users/renanfavero/Documents/FaveroBank/obj/Debug/net7.0/FaveroBank.AssemblyInfoInputs.cache
+/Users/renanfavero/Documents/FaveroBank/obj/Debug/net7.0/FaveroBank.AssemblyInfo.cs
+/Users/renanfavero/Documents/FaveroBank/obj/Debug/net7.0/FaveroBank.csproj.CoreCompileInputs.cache
+/Users/renanfavero/Documents/FaveroBank/obj/Debug/net7.0/FaveroBank.dll
+/Users/renanfavero/Documents/FaveroBank/obj/Debug/net7.0/refint/FaveroBank.dll
+/Users/renanfavero/Documents/FaveroBank/obj/Debug/net7.0/FaveroBank.pdb
+/Users/renanfavero/Documents/FaveroBank/obj/Debug/net7.0/FaveroBank.genruntimeconfig.cache
+/Users/renanfavero/Documents/FaveroBank/obj/Debug/net7.0/ref/FaveroBank.dll
