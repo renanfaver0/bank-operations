@@ -3,7 +3,7 @@
 // Adicionando Encoding para permitr acentuação no código;
 Console.OutputEncoding = System.Text.Encoding.UTF8;
 
-// Declarando as variáveis utilizadas no código;
+// Chamando as variáveis utilizadas no código;
 decimal depositoConta = 0;
 decimal saqueConta = 0;
 decimal calculaValor = 0;
