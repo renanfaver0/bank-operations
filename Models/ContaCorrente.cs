@@ -8,7 +8,7 @@ namespace FaveroBank.Models
     // Sentenciando a classe ContaCorrente;
     public class ContaCorrente
     {
-        // Declanado as propriedades;
+        // Declarando as propriedades;
         private decimal depositoConta = 0;
         private decimal saqueConta = 0;
         private decimal calculaValor = 0;
