@@ -1,5 +1,5 @@
-# favero-bank
-Programa simulando um banco com algumas operações básicas.
+# bank-operations
+Program simulating one bank, using some logics operations.
 
-## Comando para iniciar o programa:
+## Command for initializing the program on terminal of VS Code:
 - dotnet run
